@@ -2,10 +2,9 @@
 
 `electron` version of a `vrc` client.
 
-
-
 # todo
 
+- readme
 - installer
 - packaging
 - ui selector

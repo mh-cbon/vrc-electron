@@ -10,9 +10,9 @@
   "keywords": [],
   "author": "mh-cbon <mh-cbon@users.noreply.github.com>",
   "license": "MIT",
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "dependencies": {
+    "@mh-cbon/vrc-ui": "git+https://github.com/mh-cbon/vrc-ui.git",
     "electron-prebuilt": "^0.36.8"
   }
 }
